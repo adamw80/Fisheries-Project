@@ -97,3 +97,12 @@ The datasets used in this project include records of transshipment vessels, loit
 ## Acknowledgments
 
 This project is developed as part of an effort to understand and mitigate illegal fishing activities. Special thanks to Global Fishing Watch for providing access to the transshipment and loitering datasets.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
+
